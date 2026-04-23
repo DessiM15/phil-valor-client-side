@@ -12,7 +12,7 @@ export default function Footer() {
               alt="Valor Financial Advisors"
               width={160}
               height={44}
-              className="h-10 w-auto mb-6"
+              className="h-[55px] w-auto mb-6"
             />
             <p className="text-white/40 text-sm leading-relaxed">
               Holistic financial planning for individuals and families seeking a
