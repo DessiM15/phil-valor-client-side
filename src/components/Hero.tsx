@@ -62,7 +62,7 @@ export default function Hero() {
       </div>
 
       {/* Scroll indicator */}
-      <div className="absolute bottom-10 left-1/2 -translate-x-1/2 z-10">
+      <div className="absolute bottom-4 left-1/2 -translate-x-1/2 z-10">
         <FadeIn delay={0.8}>
           <a
             href="#services"
